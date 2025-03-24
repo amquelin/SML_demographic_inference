@@ -1,9 +1,9 @@
 ## SML for demographic inference
 
-This repository is based on the paper : Simulation-based supervised machine learning for inferring demographic history from genomic data" and contains :
+This repository is based on the paper : Assessing simulation-based supervised machine learning for demographic parameter inference from genomic data" and contains :
 
 - a directory [Simulations](Simulations/) containing
-  - the code to produce simulated genomic data under an isolation with migration models.
+  - the code to produce simulated genomic data under an isolation with migration (IM) and secondary contact (SC) models.
   - the code to compute summary statistics on these simulations.
 
 - a directory [Demo_inference](Demo_inference/) containing
